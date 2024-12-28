@@ -4,7 +4,7 @@ Une application basique développée pour apprendre les concepts fondamentaux du
 
 ## Démo
 
-Découvrez l'application en ligne : [cours-react.vercel.app](https://cours-react.vercel.app)
+Découvrez l'application en ligne : [cours-react-1.vercel.app](https://cours-react-1.vercel.app)
 
 ## Fonctionnalités
 
